@@ -51,7 +51,7 @@ const Reactcontact = () => {
     }
 }
 else {
-    alert("Please fill all input fields.")
+    return alert("Please fill all input fields.");
 }
   };
   return (
