@@ -1,0 +1,17 @@
+.main-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-us {
+    background-color: #fff;
+    box-shadow: 0 0 10px 2px;
+    border-radius: 4px;
+    height: 450px;
+    width: 65vw;
+    line-height: 3;
+    padding: 30px 50px;
+  }
+  
